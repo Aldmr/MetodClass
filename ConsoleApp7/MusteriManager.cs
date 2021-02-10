@@ -8,7 +8,8 @@ namespace ConsoleApp7
     {
         public void musteriEkle(Musteri musteri)
         {
-            Console.WriteLine(musteri.musteriAdi + " "+ musteri.musteriSoyadi+ " Musterisi Eklendi");
+            Console.WriteLine(musteri.musteriAdi + " "+ musteri.musteriSoyadi+ " Musterisi Eklenmiştir.");
+            
         }
         public void musteriListele()
         {
